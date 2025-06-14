@@ -1,0 +1,6 @@
+Key topics:
+- SYntax and control flow
+- Functions and basic I/O
+- Pointers, references, and dynamic allocation
+- Classes, constructors/destructors & RAII
+- STL containers and algos
